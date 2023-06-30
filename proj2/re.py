@@ -25,3 +25,4 @@ for p in range (0,250,25):
         csvwriter.writerow(dic.values())
 f.close
 print("done!")
+
